@@ -1,6 +1,6 @@
 # hello-world
-first Repository
+This is my first repository on Github !
 
 Hi Friends,
 
-I am Trinath, trying to understand how github works exactly.
+I am Trinath, an open source lover, trying to understand how github works exactly. 
